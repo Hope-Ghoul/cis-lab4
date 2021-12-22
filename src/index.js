@@ -8,7 +8,7 @@ let students = [{
     id: 1,
     firstName: 'Ivan',
     lastName: 'Ivanov',
-    group: 'VIS21',
+    group: 'VPI31',
     createdAt: '2020-03-02T12:41:09.533Z', // дата создания
     updatedAt: '2020-03-02T12:45:02.121Z' // дата редактирования
 
